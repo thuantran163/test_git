@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the first line of Ffile
+=======
+this is the 1st line of f file
+>>>>>>> 56e6bb3305921e76a0ab5f8d8ad530ed11d445c7
