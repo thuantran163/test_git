@@ -1,3 +1,0 @@
-this is the first line of file a
- this is the second line of a file
-this is the 3rd line of a file
